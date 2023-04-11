@@ -1,0 +1,39 @@
+.janela1{
+    width: 850px;
+    height: 350px;
+    text-align: center;
+    
+}
+.janela2{
+    width: 850px;
+    height: 350px;
+    text-align: center;
+}
+.janela3{
+    width: 850px;
+    height: 350px;
+    text-align: center;
+
+}
+.janela4{
+    width: 850px;
+    height: 850px;
+    text-align: center;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+div a img{
+    width: 500px;
+    height: 500px;
+}
+.janela4 .popt a img{
+    width: 500px;
+    height: 500px;
+}
